@@ -32,5 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamitachama&show_icons=true&locale=en&layout=compact" alt="chamitachama" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamitachama&show_icons=true&locale=en" alt="chamitachama" /></p>
 
