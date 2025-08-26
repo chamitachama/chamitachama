@@ -13,8 +13,6 @@
 
 - 📝 I regularly write articles on [https://geniabichino.medium.com](https://geniabichino.medium.com)
 
-- 💬 Ask me about **Reactm User Experience, Design and Systems**
-
 - 📫 How to reach me **Geniabichino@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1w2MXXvUbV2ij2FaREw8Ui-VqlJkZUKmS/view?usp=sharing](https://drive.google.com/file/d/1w2MXXvUbV2ij2FaREw8Ui-VqlJkZUKmS/view?usp=sharing)
