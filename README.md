@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamitachama&label=Profile%20views&color=0e75b6&style=flat" alt="chamitachama" /> </p>
 
-- 🔭 I’m currently working on [CheapCharminghouses](https://cheapcharminghouses.com/new_index) && [geniabichino.dev](https://geniabichino.dev/)
+- 🔭 I’m currently working on [CheapCharminghouses](https://cheapcharminghouses.com/new_index) & [geniabichino.dev](https://geniabichino.dev/)
 
 - 🌱 I’m currently learning **Ruby On Rails**
 
@@ -13,9 +13,9 @@
 
 - 📝 I regularly write articles on [Medium.com](https://geniabichino.medium.com)
 
-- 📫 How to reach me [mail](mailto:geniabichino@gmail.com)
+- 📫 How to reach me [via mail](mailto:geniabichino@gmail.com)
 
-- 📄 Know about my experiences [Resume 2025](https://drive.google.com/file/d/1YZ7Jputbrug-UvEXrjukbbMm-iRSzett/view?usp=drive_link)
+- 📄 Know about my experiences in the field [Resume 2025](https://drive.google.com/file/d/1YZ7Jputbrug-UvEXrjukbbMm-iRSzett/view?usp=drive_link)
 
 - ⚡ Fun fact **I've lived in +8 cities across 3 countries!**
 
