@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [Medium.com](https://geniabichino.medium.com)
 
-- 📫 How to reach me [mail](**Geniabichino@gmail.com**)
+- 📫 How to reach me [mail](mailto:geniabichino@gmail.com)
 
 - 📄 Know about my experiences [Resume 2025](https://drive.google.com/file/d/1YZ7Jputbrug-UvEXrjukbbMm-iRSzett/view?usp=drive_link)
 
