@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Geniabichino@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1w2MXXvUbV2ij2FaREw8Ui-VqlJkZUKmS/view?usp=sharing](https://drive.google.com/file/d/1w2MXXvUbV2ij2FaREw8Ui-VqlJkZUKmS/view?usp=sharing)
+- 📄 Know about my experiences ([CV 2025](https://drive.google.com/file/d/1YZ7Jputbrug-UvEXrjukbbMm-iRSzett/view?usp=drive_link)
 
 - ⚡ Fun fact **I've lived in +8 cities across 3 countries!**
 
