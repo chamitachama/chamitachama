@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently doing CAI Design in [MindSight](https://www.mindsightventures.ai) and developing a new platform for [CheapCharminghouses](https://cheapcharminghouses.com/new_index) 
 
-- 🌱 I’m currently learning **Ruby On Rails**
+- 🌱 I’m learning **Ruby On Rails**
 
 - 📫 How to reach me [via mail](mailto:geniabichino@gmail.com)
 
