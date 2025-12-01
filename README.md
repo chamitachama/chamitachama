@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamitachama&label=Profile%20views&color=0e75b6&style=flat" alt="chamitachama" /> </p>
 
-- 🔭 I’m currently doing CAI Design in [MindSight](https://www.mindsightventures.ai), developing a new platform for [CheapCharminghouses](https://cheapcharminghouses.com/new_index) & improving my personal site [geniabichino.dev](https://geniabichino.dev/)
+- 🔭 I’m currently doing CAI Design in [MindSight](https://www.mindsightventures.ai), developing a new platform for [CheapCharminghouses](https://cheapcharminghouses.com/new_index) 
 
 - 🌱 I’m currently learning **Ruby On Rails**
 
